@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./test-page.html).
+[Link to another page](https://ivypokorny.github.io/about).
 
 Initial Tests
 
