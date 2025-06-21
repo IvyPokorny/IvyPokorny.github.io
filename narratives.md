@@ -1,9 +1,11 @@
 layout: page
-title: "about"
-permalink: https://ivypokorny.github.io/about
+title: "narratives"
+permalink: https://ivypokorny.github.io/narratives
 
 | [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Code Review](https://ivypokorny.github.io/code-review) | [Original Artifact](https://ivypokorny.github.io/original-artifact) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) | 
 
-# This all about me
+# Narratives
 
-Write an about me page here
+For each enhancement there will be a narrative here
+
+Links as wel
