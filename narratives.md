@@ -8,4 +8,4 @@ permalink: https://ivypokorny.github.io/narratives
 
 For each enhancement there will be a narrative here
 
-Links as wel
+Links as well

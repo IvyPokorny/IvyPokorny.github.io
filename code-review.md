@@ -11,3 +11,5 @@ Explain the code review
 Here is where I embed a youtube video
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+An in depth explanation of the artifact I selected for the CS-499 Capstone Project can be found here as well. Either click the Original Artifact link above or [Click here](https://ivypokorny.github.io/original-artifact).
