@@ -103,7 +103,7 @@ The improvements are as follows:
 For this category I have implemented a Inventory display graph which colors the items in the inventory by category to allow the user to check stock counts quickly and easily. The graph supports zooming in and out as well as swapping between total count and total value. The home page also supports a list of low stock items, the name of the last item that had it's count adjusted, and a total count of how many unique items there are and how many there are total.
 
 
-[Click here](https://github.com/IvyPokorny/Stock-t_2/tree/499_Milestone2) to view the Software Engineering and Design repository for this enhancement. Or download it here: [Enhancement 1 ZIP](Stock-t_IvyPokorny_Improvement2.zip)
+[Click here](https://github.com/IvyPokorny/Stock-t_2/tree/499_Milestone2) to view the Software Engineering and Design repository for this enhancement. Or download it here: [Enhancement 1 ZIP](Stock-t_IvyPokorny_Improvement1.zip)
 
 ###   Algorithms and Data Strucutres
 

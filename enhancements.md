@@ -14,7 +14,7 @@ For this category I have implemented a Inventory display graph which colors the 
 
 Here you can find the narrative corresponding to this category: [Narrative on Software Engineering and Design](CS499_Milestone2.pdf)
 
-##   Algorithms and Data Strucutres
+##   Algorithms and Data Structres
 
 For this category, the improvement made allows the user to enter the history screen, which implements two stacks to undo and redo adjustments made to the inventory. This includes creation, deletion, and count adjustment. This allows simple and easy undo/redo for any mistakes made.
 

@@ -8,9 +8,7 @@ permalink: https://ivypokorny.github.io/original-artifact
 
 The purpose of selecting artifacts for improvement is to showcase in three different areas, my abilities in Computer Science. 
 
-For a more detailed description of the artifact can be found here:  [Original Artifact](https://ivypokorny.github.io/original-artifact)
-
-Additionally, the original code for the artifact can be found here: [GitHub Stock't](https://github.com/IvyPokorny/Stock-t_2) or downloaded here: [Stock't ZIP](Stock't_IvyPokorny_Original.zip)
+The original code for the artifact can be found here: [GitHub Stock't](https://github.com/IvyPokorny/Stock-t_2) or downloaded here: [Stock't ZIP](Stock't_IvyPokorny_Original.zip)
 
 For the CS-499 Capstone Project I was asked to select one or more artifacts for use in the following categories:
 
