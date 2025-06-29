@@ -6,10 +6,10 @@ permalink: https://ivypokorny.github.io/code-review
 
 # Explain
 
-Explain the code review
+This is the inital Code Review which includes insufficient enhancements. Later in the feedback proccess the enhancement plans changed to match requirements.
 
-Here is where I embed a youtube video
+[![The Code Review Video Link](https://img.youtube.com/vi/8_Vs7kd755s/hqdefault.jpg)](https://youtu.be/8_Vs7kd755s)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+------------------
 
 An in depth explanation of the artifact I selected for the CS-499 Capstone Project can be found here as well. Either click the Original Artifact link above or [Click here](https://ivypokorny.github.io/original-artifact).
