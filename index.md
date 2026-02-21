@@ -2,120 +2,94 @@
 layout: default
 ---
 
-<!-- | [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Code Review](https://ivypokorny.github.io/code-review) | [Original Artifact](https://ivypokorny.github.io/original-artifact) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
+<!-- | [Home](https://ivypokorny.github.io/) | [Projects](https://ivypokorny.github.io/about) | [Code Snippets](https://ivypokorny.github.io/code-review) | [Outcomes](https://ivypokorny.github.io/original-artifact) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
 
 
-# Professional Assessment
+# Introduction
 
-## Introduction
-Throughout my journey in the Computer Science program, I have cultivated a diverse skill set that positions me as a strong candidate in the field. The coursework, coupled with the development of my ePortfolio, has allowed me to showcase my strengths, shape my professional goals, and prepare to excel in the dynamic world of technology. By completing projects that integrate software engineering, algorithms, data structures, database management, and security, I have developed a comprehensive understanding of computer science principles and practices.
+## About Me
+As a recent graduate, I am actively seeking employment and am excited to share my ePortfolio. Through various projects that encompass software engineering, algorithms, data structures, database management, and security, I have gained a solid understanding of core computer science principles and practices.
 
-The ePortfolio represents the culmination of my technical expertise, creative problem-solving, and commitment to user-centered design. My enhancements to **Stock’t**, an inventory management application for flower shops, exemplify my ability to design and deliver robust computing solutions while addressing real-world challenges. This professional self-assessment will highlight my strengths in team collaboration, stakeholder communication, technical proficiency, and adherence to security best practices. It will also provide an overview of how my artifacts collectively demonstrate my readiness to contribute to the industry.
+This ePortfolio showcases my technical skills, creative problem-solving abilities, and dedication to user-centered design. Within this professional self-assessment, I will highlight my strengths in team collaboration, communication, technical expertise, and adherence to security best practices. It also provides a comprehensive overview of how my projects collectively demonstrate my readiness to make a meaningful contribution to the industry.
 
-## Strengths in Core Competencies
-### Collaborative Environments and Teamwork
-In the Computer Science program, I honed my ability to build collaborative environments that enable diverse audiences to make informed decisions. For example, in my coursework, CS320 Software Development LifeCycles I regularly participated in peer reviews, and group discussions. I nearly every class I have participated in group discussions. In this course the narratives and code review were crucial in getting feedback into organizational decisions. Without the feedback from those assignments, the enhancments would likely have been insufficient or misalligned to the requirements. These experiences taught me how to effectively communicate technical concepts to both technical and non-technical stakeholders, fostering mutual understanding and collaboration.
+## List Of Projects + summaries
+Here are some of the notable projects I completed for my program.
 
-The iterative development process for Stock’t exemplifies this strength. During CS 360 where the artifact was originally created I incorporated user feedback from co-workers at a flower shop to refine the app's features, such as the low-stock alert system. The enhancments made during this course included graphing functionality. This iterative approach not only improved the app's usability but also demonstrated my ability to work collaboratively with end-users to meet their needs.
+Inventory App -  This app is designed to streamline inventory management for flower shops, focusing on essential user needs like low stock alerts, straightforward inventory tracking, and efficient communication about inventory levels. Tailored for flower shop owners and managers, it simplifies the inventory process and enhances the user experience by enabling easy monitoring of stock levels and timely alerts. This ensures that users are always informed about their inventory. It was developed using Android Studio.
 
-### Communication with Stakeholders
-The ability to deliver professional-quality oral, written, and visual communications is critical in the field of computer science. My ePortfolio highlights this strength through clear documentation, detailed narratives, and visual representations of technical concepts. For example, the implementation of an analytics dashboard in Stock’t is accompanied by user-friendly graphs and labels, making it easier for stakeholders to interpret inventory trends.
+3D graphics class - I created realistic, interactive, three-dimensional objects through the use of application programming interface (API) libraries and best practices. I also developed fully formed graphic applications that met project requirements. 
 
-In conversation with the owner of the flower-shop I was also able to flesh out more features that she felt would be important in an inventory app. These added features showcase my ability to adapt communications to specific audiences, ensuring that technical solutions are accessible and actionable.
+Intelligent Agent - 
 
-### Algorithms and Data Structures
-The enhancement of Stock’t with undo/redo functionality is a testament to my proficiency in algorithms and data structures. By leveraging stack data structures, I implemented a system that allows users to revert or repeat inventory changes seamlessly. This feature demonstrates my ability to design and evaluate computing solutions that solve complex problems while adhering to algorithmic principles.
+Assembly Code - 
 
-Further, the implementation of item IDs in the undo/redo stack highlights my attention to detail and commitment to efficient data management. This enhancement not only improves the app's functionality but also showcases my ability to think critically about design trade-offs and implement solutions that deliver value.
+Smart thermostat - The Smart Thermostat project focused on creating a prototype to monitor and control room temperatures. The goal was to design a reliable, user-friendly device that sends temperature data to the fictional server software, SysTec, via Wi-Fi. My strengths included effectively implementing state machine logic for managing heating, cooling, and off modes, ensuring smooth functionality and easier debugging. I also integrated various peripherals, like a temperature sensor and LCD display, to enhance responsiveness and user experience. While pleased with the implementation, I recognize the need to optimize the code for efficiency, particularly by refactoring sections to reduce complexity and improve performance.
 
-### Software Engineering and Databases
-My enhancements to Stock’t reflect my strengths in software engineering and database management. The addition of a comprehensive history database enables users to track inventory changes over time, providing valuable insights into sales patterns and operational bottlenecks. This database includes fields such as item IDs, quantity changes, timestamps, and adjustment reasons, demonstrating my ability to design scalable and user-focused database solutions. Additionally, graphs have been implemented that are engineered to showcase valuable information in an effective, communicative, and readable format.
+Pet hotel java - For this project, I developed the backend of a pet hotel management system, focusing on critical processes like pet intake and checkout. Leveraging Java’s object-oriented principles, I crafted a scalable solution. Comprehensive testing and debugging were essential to validate the system’s operations.
 
-Additionally, the use of parameterized SQLite queries throughout the app ensures that the database is secure and resistant to SQL injection attacks. These practices reflect my commitment to adhering to industry standards and delivering high-quality software solutions.
+Travel website -  As part of this project, I went through the full software development lifecycle to update an existing travel website and enhance its personalization capabilities for users. The key phases included: Requirements Gathering, Design and Architecture, modularity and maintainability, Development and Testing, Deployment and Maintenance. Throughout the project, I followed industry-standard software development methodologies to ensure the timely delivery of a high-quality, user-centric travel website that meets the modern requirements of the target audience.
 
-### Security Mindset
-Security has been a cornerstone of my work throughout the program. For example, I implemented two critical security features in Stock’t: password hashing and password complexity requirements. By hashing passwords before storing them in the database, I ensured that plaintext credentials were never exposed, enhancing the app's security. The password complexity requirements further mitigate vulnerabilities by encouraging users to create stronger passwords.
 
-I also prioritized secure coding practices, such as using parameterized queries, to prevent SQL injection attacks. These measures demonstrate my ability to anticipate adversarial exploits and design software that protects user data and resources. Some of these queries were included in the original artifact, demonstrating a core security principle: Security should be considered from the very beginning.
+## Core Competencies
+Algorithm and Data Structures
+Software Engineering and Databases
+Security Mindset
+
+Competencies Fulfilled by Projects
+Algorithm and Data Structures
+
+Inventory App: Utilizes data structures to efficiently manage inventory data, allowing quick access and updates for stock levels. Algorithms for tracking inventory changes are implemented to ensure timely notifications for low stock.
+3D Graphics Class: Involves the use of complex algorithms to render realistic 3D objects and manipulate graphic data structures, enhancing the interactive experience.
+Smart Thermostat: Implements state machine algorithms for managing temperature control, optimizing performance through effective decision-making logic based on user input and environmental conditions.
+Pet Hotel Java: Uses object-oriented principles to create data structures representing pets, owners, and transactions, allowing for seamless operations such as intake and checkout.
+Travel Website: Employs algorithms for personalizing user experiences based on behavior data, ensuring the site dynamically adjusts to user preferences.
+Software Engineering and Databases
+
+Inventory App: Follows software engineering principles by emphasizing user-centered design and thorough testing, ensuring a reliable and functional application. The integration of a database for inventory management tracks stock dynamically.
+Smart Thermostat: Employs modular design principles, integrating various hardware and software components. It demonstrates effective database interaction by sending and retrieving temperature data from the fictional server SysTec.
+Pet Hotel Java: Focuses on backend development and database management, ensuring data integrity and smooth operation of critical processes through comprehensive testing and effective debugging.
+Travel Website: Covers the full software development lifecycle, emphasizing modularity and maintainability. The project reflects industry-standard methodologies to deliver a high-quality, scalable web application.
+Security Mindset
+
+Smart Thermostat: Incorporates considerations for secure communication between the device and the server, recognizing potential vulnerabilities in transmitting temperature data over Wi-Fi.
+Pet Hotel Java: Implements secure handling of user data and emphasizes rigorous testing to identify any security issues in processing sensitive pet and owner information.
+Travel Website: Adheres to secure coding practices by ensuring proper user authentication and data protection throughout the development lifecycle, addressing common web security concerns such as data breaches and user data integrity.
+
+Overall, these projects not only demonstrate a practical application of technical competencies but also exemplify the importance of integrating algorithms, database management, and security considerations throughout the software development process. Each project contributes to a well-rounded skill set in these fundamental areas.
+
+
 
 ## Artifacts Summary and Portfolio Overview
 The artifacts in my ePortfolio reflect a cohesive narrative of my growth as a computer scientist. This ePortfolio as well as the narrative and code review reflect a collaborative environment which has produced professional-quality communications throughout the project, each adapted to the audience. Each artifact addresses different aspects of the course outcomes, showcasing my technical skills and ability to deliver innovative solutions:
 
-### Enhancement One: Software Design/Engineering
 
-Focus: Improved user experience with an analytics dashboard and graphing functionality.
+## Projects
+objectives per project
+technology used 
 
-Contribution: Demonstrates my software development skills and commitment to user-centered design. The inclusion of the graph in the app, which came from a powerful open-source Android specific library, showcases my utilization of innovative tools for use in the project. It also showcases my ability to develop visual communications for the context/consumption of the end-user
+Inventory App - The objective for this projects was to leverage best practices in mobile application development, implement user-centered design principles and industry standards, and successfully develop and launch a fully functional mobile application. I used Android Studio for this.
 
-### Enhancement Two: Algorithms and Data Structures
+3D graphics class - The objective of this project was to generate accurate representations of three-dimensional objects using interface libraries and computer graphics best practices, create an interactive graphics application that responds to input devices, and develop a fully realized three-dimensional project that meets all specified requirements.
 
-Focus: Implemented undo/redo functionality using stack data structures.
+Intelligent Agent - The objective of this project was to apply non-coding development methodologies for outlining algorithmic design, develop code utilizing algorithms and data structures to solve basic programming problems, and evaluate complex data structures that address specific challenges using advanced algorithmic designs.
 
-Contribution: Highlights my ability to apply algorithmic principles to solve real-world problems. The use of the stack allowed for simple operations within the datastructure for easily keeping the actions stored in the correct order. This design choice is a fantastic demostration of my ability to evaluate computing solutions to solve problems.
+Assembly Code - The objective of this project was to utilize fundamental reverse engineering techniques, apply the basics of assembly language in reverse engineering tasks, and review common security issues that may be identified through reverse engineering.
 
-### Enhancement Three: Databases
+Smart thermostat -The objective of this project was to develop interface software to control hardware components, analyze fundamental considerations related to hardware architecture design and their impact on application performance, and recommend and justify emerging systems architectures and technologies based on business requirements. The tools used include: Raspberry Pi 5, 
 
-Focus: Created a history database with graphing for tracking inventory changes, including timestamps and reasons. Also, included a security update for the user database.
+Pet hotel java - 
 
-Contribution: Showcases my expertise in database design and data analysis. The inclusion of a few security updates as well as a throughough review of previos programming standards showcases a security mindset which anticipates exploits in order to ensure privacy and security
+Travel website - The objective of this project was to design the architecture of a web application, build the application using frameworks, and develop and integrate a database utilizing those frameworks. 
 
-These enhancements are complemented by the Code Review, which provides insight into my thought process and attention to detail during the re-engineering of Stock’t. Together, these artifacts demonstrate my ability to design, develop, and evaluate computing solutions that are technically sound, user-friendly, and secure.
+## Code Snippets
 
-## Conclusion
-The Computer Science program and the development of my ePortfolio have equipped me with the skills, knowledge, and confidence to excel in the field. From collaborating with diverse teams to designing  software solutions, I have demonstrated my ability to deliver value and achieve industry-specific goals. My focus on security, user experience, and data-driven insights sets me apart as a candidate who is not only technically proficient but also committed to creating impactful solutions.
-
-By reflecting on my strengths and experiences, I am prepared to contribute meaningfully to the field of computer science and pursue my professional goals with confidence. My ePortfolio serves as a testament to my capabilities and a foundation for continued growth in my career.
-
-## Code Review
-
-This is the inital Code Review which includes insufficient enhancements. Later in the feedback proccess the enhancement plans changed to match requirements.
-
-[![The Code Review Video Link](https://img.youtube.com/vi/8_Vs7kd755s/hqdefault.jpg)](https://youtu.be/8_Vs7kd755s)
-
-## Original Artifacts
-
-The purpose of selecting artifacts for improvement is to showcase in three different areas, my abilities in Computer Science. 
-
-For a more detailed description of the artifact can be found here:  [Original Artifact](https://ivypokorny.github.io/original-artifact)
-
-Additionally, the original code for the artifact can be found here: [GitHub Stock't](https://github.com/IvyPokorny/Stock-t_2) or downloaded here: [Stock't ZIP](Stock't_IvyPokorny_Original.zip)
-
-For the CS-499 Capstone Project I was asked to select one or more artifacts for use in the following categories:
-
-*   Software Engineering and Design
-*   Algorithms and Data Strucutres
-*   Databases
-
-For my artifacts I selected a single previous course's final project and used the three categories to improve it.
-
-The improvements are as follows:
-
-**Software Engineering and Design**: [Stock Infographic](https://ivypokorny.github.io/enhancements#software-engineering-and-design)
-
-**Algorithms and Data Strucutres**: [Undo & Redo Stack](https://ivypokorny.github.io/enhancements#algorithms-and-data-structures)
-
-**Databases**: [Stock Transaction History Database](https://ivypokorny.github.io/enhancements#databases)
-
-## Enhancements
-
-###   Software Engineering and Design
-
-For this category I have implemented a Inventory display graph which colors the items in the inventory by category to allow the user to check stock counts quickly and easily. The graph supports zooming in and out as well as swapping between total count and total value. The home page also supports a list of low stock items, the name of the last item that had it's count adjusted, and a total count of how many unique items there are and how many there are total.
+include pics and links 
 
 
-[Click here](https://github.com/IvyPokorny/Stock-t_2/tree/499_Milestone2) to view the Software Engineering and Design repository for this enhancement. Or download it here: [Enhancement 1 ZIP](Stock-t_IvyPokorny_Improvement1.zip)
+## Outcomes
+outcomes and how they relate to the competencies 
 
-###   Algorithms and Data Strucutres
 
-For this category, the improvement made allows the user to enter the history screen, which implements two stacks to undo and redo adjustments made to the inventory. This includes creation, deletion, and count adjustment. This allows simple and easy undo/redo for any mistakes made.
-
-[Click here](https://github.com/IvyPokorny/Stock-t_2/tree/499_Milestone3) to view the Algorithms and Data Strucutres repository for this enhancement. Or download it here: [Enhancement 2 ZIP](Stock-t_IvyPokorny_Improvement2.zip)
-
-###   Databases
-
-This category involved the creation of a new SQLite database in order to add the ability to track and graph items sold. The new database tracks any count adjustments made to the inventory then the graph displays all of these individual adjustments as well as the date and time they were made. In addition. this enhancement includes proper security standards for hashing passwords in the User database as well as requiring users create sufficiently complex password.
-
-[Click here](https://github.com/IvyPokorny/Stock-t_2/tree/499_Milestone4_Security) to view the Database repository for this enhancement. Or download it here: [Enhancement 3 ZIP](Stock-t_IvyPokorny_Improvement3_Security.zip)
 
 ## Narratives
 
