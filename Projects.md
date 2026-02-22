@@ -37,8 +37,8 @@ I created realistic, interactive 3D objects using application programming interf
 Objective: Generate accurate representations of 3D objects and create an interactive graphics application that responds to input devices. In this case, I used a picture of my husband and I from vacation as the goal in this project.
 Technologies used: OpenGL, C++.
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330D.png" alt="" width="200" height="450">
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330E.png" alt="" width="200" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330D.png" alt="" width="450" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330E.png" alt="" width="450" height="450">
 
 ### Intelligent Agent:
 In this project, I developed an intelligent pirate agent that navigates a maze to locate treasure using reinforcement learning techniques. I began with a provided codebase, which included the foundational structure for the maze and basic agent functionalities. My contributions involved implementing deep Q-learning algorithms using neural networks, enhancing the agent’s ability to learn optimal paths through exploration and exploitation.
@@ -73,11 +73,11 @@ Required Functionality:
 Objective: Create a management system facilitating seamless operations.
 Technologies used: MongoDB, Python libraries; pandas & Dash 
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340A.png" alt="" width="200" height="450">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340B.png" alt="" width="200" height="450">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340C.png" alt="" width="200" height="450">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340D.png" alt="" width="200" height="450">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340E.png" alt="" width="200" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340A.png" alt="" width="800" height="600">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340B.png" alt="" width="800" height="600">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340C.png" alt="" width="800" height="600">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340D.png" alt="" width="800" height="600">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340E.png" alt="" width="800" height="600">
 
 ### Travel Website:
 This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL MongoDB database.
@@ -91,9 +91,9 @@ required functionality;
 Objective: Design the architecture of a web application, build the application using frameworks, and develop and integrate a database for functionality and responsiveness.
 Technologies used: Express HTML, CSS, Angular, NoSQL, JavaScript, Node.js, Postman and MongoDB.
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA.png" alt="" width="200" height="450">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA2.png" alt="" width="200" height="450">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA3.png" alt="" width="200" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA.png" alt="" width="450" height="600">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA2.png" alt="" width="450" height="600">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA3.png" alt="" width="450" height="600">
 
 
 
