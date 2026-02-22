@@ -1,8 +1,10 @@
-<!-- layout: page
+---
+layout: page
 title: "Code Snippets"
 permalink: https://ivypokorny.github.io/Code-Snippets
+---
 
-| [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Code Snippets](https://ivypokorny.github.io/code-snippets) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
+<!-- | [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Code Snippets](https://ivypokorny.github.io/code-snippets) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
 
 # Artifact Explanation
 

@@ -1,8 +1,10 @@
-<!-- layout: page
+---
+layout: page
 title: "Projects"
 permalink: https://ivypokorny.github.io/projects
+---
 
-| [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Original Artifact](https://ivypokorny.github.io/original-artifact) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
+<!-- | [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Original Artifact](https://ivypokorny.github.io/original-artifact) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
 
 # Projects Highlighted 
 
@@ -18,7 +20,7 @@ Key Features:
     Adjusting quantities
     Low stock notifications
     User authentication
-    
+
 Technology used: Android Studio
 
 ### 3D Graphics Class:

@@ -1,8 +1,10 @@
-<!-- layout: page
-title: "About"
+---
+layout: page
+title: "about"
 permalink: https://ivypokorny.github.io/about
+---
 
-| [Home](https://ivypokorny.github.io/) | [Projects](https://ivypokorny.github.io/about) | [Code Snippets](https://ivypokorny.github.io/code-review) | [Outcomes](https://ivypokorny.github.io/original-artifact) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
+<!-- | [Home](https://ivypokorny.github.io/) | [Projects](https://ivypokorny.github.io/about) | [Code Snippets](https://ivypokorny.github.io/code-review) | [Outcomes](https://ivypokorny.github.io/original-artifact) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
 
 # Professional Assessment
 
