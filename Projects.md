@@ -26,7 +26,7 @@ Key Features:
 
 Technology used: Android Studio
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="" width="80" height="80">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360B.png" alt="">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C.png" alt="">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="">
