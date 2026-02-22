@@ -75,9 +75,9 @@ Technologies used: MongoDB, Python libraries; pandas & Dash
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340A.png" alt="" width="800" height="600">
 <img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340B.png" alt="" width="800" height="600">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340C.png" alt="" width="800" height="600">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340D.png" alt="" width="800" height="600">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340E.png" alt="" width="800" height="600">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340C.png" alt="" width="800" height="500">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340D.png" alt="" width="800" height="300">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340E.png" alt="" width="800" height="300">
 
 ### Travel Website:
 This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL MongoDB database.
@@ -91,9 +91,9 @@ required functionality;
 Objective: Design the architecture of a web application, build the application using frameworks, and develop and integrate a database for functionality and responsiveness.
 Technologies used: Express HTML, CSS, Angular, NoSQL, JavaScript, Node.js, Postman and MongoDB.
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA.png" alt="" width="450" height="600">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA2.png" alt="" width="450" height="600">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA3.png" alt="" width="450" height="600">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA.png" alt="" width="600" height="400">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA2.png" alt="" width="450" height="400">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA3.png" alt="" width="450" height="400">
 
 
 
