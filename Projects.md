@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: default
 title: "Projects"
+description: ""
 permalink: https://ivypokorny.github.io/projects
 ---
 
-<!-- | [Home](https://ivypokorny.github.io/) | [About](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Original Artifact](https://ivypokorny.github.io/original-artifact) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
+<!-- 
+THIS IS COMMENTED OUT
+| [Home](https://ivypokorny.github.io/) | [About](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Original Artifact](https://ivypokorny.github.io/original-artifact) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
 
 # Projects Highlighted 
 
