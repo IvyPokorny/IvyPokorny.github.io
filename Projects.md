@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Projects"
-description: ""
+description: "Welcome to my project showcase! In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems."
 permalink: /projects
 ---
 
@@ -26,11 +26,11 @@ Key Features:
 
 Technology used: Android Studio
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="" width="80" height="80">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360B.png" alt="">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C.png" alt="">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360E.png" alt="">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="" width="100" height="150">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360B.png" alt="" width="100" height="150">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C.png" alt="" width="100" height="150">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="" width="100" height="150">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360E.png" alt="" width="100" height="150">
 
 ### 3D Graphics Class:
 I created realistic, interactive 3D objects using application programming interface (API) libraries and best practices, resulting in fully realized graphic applications that met all project requirements.
