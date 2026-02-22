@@ -2,7 +2,7 @@
 layout: default
 title: "Code Snippets"
 description: ""
-permalink: https://ivypokorny.github.io/code-snippets
+permalink: /code-snippets
 ---
 
 <!-- 

@@ -2,7 +2,7 @@
 layout: default
 title: "Projects"
 description: ""
-permalink: https://ivypokorny.github.io/projects
+permalink: /projects
 ---
 
 <!-- 

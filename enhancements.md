@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Enhancements"
-permalink: https://ivypokorny.github.io/enhancements
+permalink: /enhancements
 ---
 
 <!-- 

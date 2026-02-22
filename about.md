@@ -2,7 +2,7 @@
 layout: default
 title: "About"
 description:  "A explanation of core skills"
-permalink: https://ivypokorny.github.io/about
+permalink: /about
 ---
 
 <!-- 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "narratives"
-permalink: https://ivypokorny.github.io/narratives
+permalink: /narratives
 ---
 
 <!-- 
