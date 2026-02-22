@@ -1,8 +1,8 @@
 <!-- layout: page
-title: "original-artifact"
-permalink: https://ivypokorny.github.io/original-artifact
+title: "Code Snippets"
+permalink: https://ivypokorny.github.io/Code-Snippets
 
-| [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Code Review](https://ivypokorny.github.io/code-review) | [Original Artifact](https://ivypokorny.github.io/original-artifact) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
+| [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Code Snippets](https://ivypokorny.github.io/code-snippets) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
 
 # Artifact Explanation
 
