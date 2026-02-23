@@ -26,18 +26,17 @@ Key Features:
 
 Technology used: Android Studio
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="Signup page - User authentication" width="200" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:0px 50px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360B.png" alt=" Homepage" width="200" height="450">
 
-The first image is the sign in page where users can create an account or sign in to an existing one. 
-The second page is the homepage after the user has been granted access to their account.
+The first image shows the sign-in page for account creation or access. The second image displays the homepage once the user is logged in.
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C.png" alt="Items button directs to the inventory page" width="200" height="450">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C1.png" alt="Settings button directs to settings page" width="200" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C.png" alt="Items button redirects to the inventory page" width="200" height="450" style="vertical-align:middle;margin:0px 50px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C1.png" alt="Settings button redirects to settings page" width="200" height="450">
 
-From the homepage, the user can navigate to 'home', 'items' and 'settings'. and this will direct them back to home if user chose home again, to the items page or the settings page. 
+From the homepage, the user can navigate to "Home," "Items," or "Settings." Selecting "Home" will return them to the homepage, while the other options direct them to the respective pages. 
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="Graph showing the trends of individual items" width="200" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="Graph showing the trends of individual items" width="200" height="450" style="vertical-align:middle;margin:0px 50px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360E.png" alt=" Graph showing the trends of groups sold ie fruits compared to banana above" width="200" height="450">
 
 ### 3D Graphics Class:
@@ -45,8 +44,8 @@ I created realistic, interactive 3D objects using application programming interf
 Objective: Generate accurate representations of 3D objects and create an interactive graphics application that responds to input devices. In this case, I used a picture of my husband and I from vacation as the goal in this project.
 Technologies used: OpenGL, C++.
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330D.png" alt="Midway submission of the project" width="450" height="450">
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330E.png" alt="Michelin Man rendering at the VIR" width="450" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330D.png" alt="Midway submission of the project" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330E.png" alt="Michelin Man rendering at the VIR" width="450" height="450" style="border:3px solid black">
 
 ### Intelligent Agent:
 In this project, I developed an intelligent pirate agent that navigates a maze to locate treasure using reinforcement learning techniques. I began with a provided codebase, which included the foundational structure for the maze and basic agent functionalities. My contributions involved implementing deep Q-learning algorithms using neural networks, enhancing the agent’s ability to learn optimal paths through exploration and exploitation.
@@ -81,11 +80,11 @@ Required Functionality:
 Objective: Create a management system facilitating seamless operations.
 Technologies used: MongoDB, Python libraries; pandas & Dash 
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340A.png" alt="" width="800" height="600">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340B.png" alt="" width="800" height="600">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340C.png" alt="" width="800" height="500">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340D.png" alt="" width="800" height="250">
-<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340E.png" alt="" width="800" height="350">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340A.png" alt="" width="800" height="600" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340B.png" alt="" width="800" height="600" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340C.png" alt="" width="800" height="500" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340D.png" alt="" width="800" height="250" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340E.png" alt="" width="800" height="350" style="border:3px solid black">
 
 ### Travel Website:
 This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL MongoDB database.
@@ -99,9 +98,9 @@ required functionality;
 Objective: Design the architecture of a web application, build the application using frameworks, and develop and integrate a database for functionality and responsiveness.
 Technologies used: Express HTML, CSS, Angular, NoSQL, JavaScript, Node.js, Postman and MongoDB.
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA.png" alt="Admin side SPA with added package" width="600" height="400">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA2.png" alt="Admin side SPA that makes it possible for the admin to edit existing trips " width="350" height="400">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA3.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA.png" alt="Admin side SPA with added package" width="600" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA2.png" alt="Admin side SPA that makes it possible for the admin to edit existing trips " width="350" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA3.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400" style="border:3px solid black">
 
 
 
