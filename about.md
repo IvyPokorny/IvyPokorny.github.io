@@ -11,8 +11,7 @@ THIS IS COMMENTED OUT
 
 # Professional Assessment
 
-My name is Ivy Pokorny, and as a recent graduate, I'm excited to share my ePortfolio while seeking employment. This portfolio showcases my projects in software engineering, algorithms, data structures, database management, and security, demonstrating my strong grasp of core computer science principles.
-
+This portfolio showcases my projects in software engineering, algorithms, data structures, database management, and security, demonstrating my strong grasp of core computer science principles.
 You'll find evidence of my technical skills, creative problem-solving, strengths in teamwork and communication, and commitment to user-centered design. My journey through the Computer Science program has equipped me with a diverse skill set, preparing me to make a meaningful impact in the tech industry. This ePortfolio highlights not just my technical competencies, but also my dedication to professional growth and readiness to contribute.
 
 ## Strengths in Core Competencies
@@ -30,9 +29,12 @@ In discussions with the flower shop owner, I identified additional features that
 
 The projects I'll be showcasing in this ePortfolio demonstrate a range of competencies in algorithm design, data structures, software engineering, database management, and security considerations.
 
-The Inventory App highlights efficient inventory management using advanced data structures and algorithms, allowing for quick access and timely notifications for low stock levels. This project adheres to software engineering principles, emphasizing user-centered design and thorough testing, supported by dynamic database integration for tracking stock.
+<dl>
+<dt>The Inventory App </dt> 
+<dd> Highlights efficient inventory management using advanced data structures and algorithms, allowing for quick access and timely notifications for low stock levels. This project adheres to software engineering principles, emphasizing user-centered design and thorough testing, supported by dynamic database integration for tracking stock.</dd>
 
-In the 3D Graphics Class, I applied complex algorithms to render realistic 3D objects and manipulate graphic data structures, enhancing the interactive user experience.
+<dt>In the 3D Graphics Class </dt>
+<dd>I applied complex algorithms to render realistic 3D objects and manipulate graphic data structures, enhancing the interactive user experience.</dd>
 
 The Smart Thermostat employs state machine algorithms for effective temperature control, optimizing performance through decision-making logic based on user input and environmental conditions. It illustrates modular design by integrating hardware and software while ensuring secure communication with the fictional server SysTec.
 
