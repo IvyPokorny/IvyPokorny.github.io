@@ -26,18 +26,18 @@ Key Features:
 
 Technology used: Android Studio
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:0px 50px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360B.png" alt=" Homepage" width="200" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360B.png" alt=" Homepage" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 
 The first image shows the sign-in page for account creation or access. The second image displays the homepage once the user is logged in.
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C.png" alt="Items button redirects to the inventory page" width="200" height="450" style="vertical-align:middle;margin:0px 50px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C1.png" alt="Settings button redirects to settings page" width="200" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C.png" alt="Items button redirects to the inventory page" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C1.png" alt="Settings button redirects to settings page" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 
 From the homepage, the user can navigate to "Home," "Items," or "Settings." Selecting "Home" will return them to the homepage, while the other options direct them to the respective pages. 
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="Graph showing the trends of individual items" width="200" height="450" style="vertical-align:middle;margin:0px 50px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360E.png" alt=" Graph showing the trends of groups sold ie fruits compared to banana above" width="200" height="450">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="Graph showing the trends of individual items" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360E.png" alt=" Graph showing the trends of groups sold ie fruits compared to banana above" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 
 ### 3D Graphics Class:
 I created realistic, interactive 3D objects using application programming interface (API) libraries and best practices, resulting in fully realized graphic applications that met all project requirements.
