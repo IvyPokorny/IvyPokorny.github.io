@@ -9,52 +9,57 @@ permalink: /projects
 THIS IS COMMENTED OUT
 | [Home](https://ivypokorny.github.io/) | [About](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Original Artifact](https://ivypokorny.github.io/original-artifact) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
 
-Welcome to my project showcase! 
-In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems.
+Welcome to my project showcase!!
+<p> In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems.</p>
 
 <details> 
-<summary> <h3> Inventory App:** </h3> </summary>
+<summary> <h3> Inventory App: </h3> </summary>
 <p>This app is designed to streamline inventory management for flower shops, addressing key user needs such as low stock alerts and straightforward tracking. It enhances the user experience through easy monitoring and timely notifications.</p>
 
 <h4> Objective:</h4> 
 <p>Leverage best practices in mobile application development by implementing user-centered design principles and industry standards to create a fully functional mobile application. The app features a home screen displaying current inventory levels, an inventory tracking system for adding and updating items, and SMS notifications for low stock alerts. User feedback was integral to the design process, resulting in intuitive navigation.</p>
 
 Key Features:
-    User authentication
-    Adding/removing items
-    Adjusting quantities
-    Low stock notifications
-    
+<ul>
+  <li>User authentication</li>
+  <li>Adding/removing items</li>
+  <li>Adjusting quantities</li>
+  <li>Low stock notifications</li>
+</ul>  
 
-Technology used: Android Studio, SQLite, 
+Technology used:
+<ul>
+  <li>SQLite</li>
+  <li>Android Studio</li>
+</ul>  
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3601.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3602.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3603.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3601.png" alt="Signup page - User authentication" width="600" height="300" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3602.png" alt="Signup page - User authentication" width="450" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3603.png" alt="Signup page - User authentication" width="600" height="450" style="vertical-align:middle;margin:10px 20px">
 
-The three pictures above show the key features mentioned above; User authentication & Low stock notifications
+<p> The three pictures above show the key features mentioned above; User authentication & Low stock notifications </p>
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360B.png" alt=" Homepage" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 
-The first image shows the sign-in page for account creation or access. The second image displays the homepage once the user is logged in.
+<p> The first image shows the sign-in page for account creation or access. The second image displays the homepage once the user is logged in. </p>
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C.png" alt="Items button redirects to the inventory page" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360C1.png" alt="Settings button redirects to settings page" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 
-From the homepage, the user can navigate to "Home," "Items," or "Settings." Selecting "Home" will return them to the homepage, while the other options direct them to the respective pages. 
+<p> From the homepage, the user can navigate to "Home," "Items," or "Settings." Selecting "Home" will return them to the homepage, while the other options direct them to the respective pages </p>
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3604.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3605.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3606.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3604.png" alt="Signup page - User authentication" width="700" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3605.png" alt="Signup page - User authentication" width="900" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3606.png" alt="Signup page - User authentication" width="900" height="550" style="vertical-align:middle;margin:10px 20px">
 
-The three pictures above show the key features mentioned above; Adding/removing items & Adjusting quantities
+<p> The three pictures above show the key features mentioned above; Adding/removing items & Adjusting quantities </p>
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360F.png" alt="Graph showing all the data metrics" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="Graph showing the trends of individual items" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360E.png" alt=" Graph showing the trends of grouped items" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 
-From the homepage, the user can access graph metrics by selecting the green button labeled "Click for Data Metrics." This leads to a new page where they can customize the data display by checking group categories or viewing individual item values. 
+<p> From the homepage, the user can access graph metrics by selecting the green button labeled "Click for Data Metrics." This leads to a new page where they can customize the data display by checking group categories or viewing individual item values. </p>
 </details>
 
 ## 3D Graphics Class:
