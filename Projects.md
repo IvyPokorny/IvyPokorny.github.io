@@ -33,9 +33,9 @@ Technology used:
   <li>Android Studio</li>
 </ul>  
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3601.png" alt="Signup page - User authentication" width="600" height="300" style="vertical-align:middle;margin:10px 20px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3602.png" alt="Signup page - User authentication" width="450" height="450" style="vertical-align:middle;margin:10px 20px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3603.png" alt="Signup page - User authentication" width="600" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3601.png" alt="Signup page - User authentication" width="700" height="350" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3602.png" alt="Signup page - User authentication" width="700" height="450" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3603.png" alt="Signup page - User authentication" width="700" height="450" style="vertical-align:middle;margin:10px 20px">
 
 <p> The three pictures above show the key features mentioned above; User authentication & Low stock notifications </p>
 
@@ -49,9 +49,9 @@ Technology used:
 
 <p> From the homepage, the user can navigate to "Home," "Items," or "Settings." Selecting "Home" will return them to the homepage, while the other options direct them to the respective pages </p>
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3604.png" alt="Signup page - User authentication" width="700" height="450" style="vertical-align:middle;margin:10px 20px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3605.png" alt="Signup page - User authentication" width="900" height="450" style="vertical-align:middle;margin:10px 20px">
-<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3606.png" alt="Signup page - User authentication" width="900" height="550" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3604.png" alt="Signup page - User authentication" width="900" height="500" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3605.png" alt="Signup page - User authentication" width="900" height="500" style="vertical-align:middle;margin:10px 20px">
+<img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3606.png" alt="Signup page - User authentication" width="900" height="500" style="vertical-align:middle;margin:10px 20px">
 
 <p> The three pictures above show the key features mentioned above; Adding/removing items & Adjusting quantities </p>
 
