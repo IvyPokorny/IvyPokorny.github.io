@@ -15,15 +15,9 @@ My name is Ivy Pokorny, and as a recent graduate, I am actively seeking employme
 This ePortfolio showcases my technical skills, creative problem-solving abilities, and dedication to user-centered design. Within this professional self-assessment, I will highlight my strengths in team collaboration, communication, technical expertise, and adherence to security best practices. It also provides a comprehensive overview of how my projects collectively demonstrate my readiness to make a meaningful contribution to the industry.
 
 ## Core Competencies
-Algorithm and Data Structures
-Software Engineering and Databases
-Security Mindset
+As I prepare to showcase my projects, I want to emphasize how they reflect my understanding of key competencies in today’s tech landscape. My work with algorithms and data structures has been instrumental in solving complex problems efficiently, allowing me to create optimized solutions that really resonate with user needs. Mastering software engineering principles has helped ensure that my projects are not just well-designed and maintainable, but also scalable and adaptable as requirements evolve. 
 
-
-
-## Artifacts Summary and Portfolio Overview
-The artifacts in my ePortfolio reflect a cohesive narrative of my growth as a computer scientist. This ePortfolio as well as the narrative and code review reflect a collaborative environment which has produced professional-quality communications throughout the project, each adapted to the audience. Each artifact addresses different aspects of the course outcomes, showcasing my technical skills and ability to deliver innovative solutions:
-
+I’ve also focused on database management, which has allowed me to effectively organize, retrieve, and maintain data integrity across applications. Lastly, I always prioritize a security mindset in my development process to safeguard sensitive information and build trust with users. Together, these core competencies provide a solid foundation for delivering high-quality applications that truly meet user expectations and industry standards. I’m excited to share how each project embodies these principles!
 
 ## Narratives
 
@@ -58,7 +52,7 @@ The artifacts in my ePortfolio reflect a cohesive narrative of my growth as a co
 
  -->
 
-#### Course Outcomes
+## Course Outcomes
 
 *   Collab Environment
 *   Quality Oral, Written, and Visual Communication

@@ -11,6 +11,7 @@ THIS IS COMMENTED OUT
 
 # Artifact Explanation
 
+
 The purpose of selecting artifacts for improvement is to showcase in three different areas, my abilities in Computer Science. 
 
 The original code for the artifact can be found here: [GitHub Stock't](https://github.com/IvyPokorny/Stock-t_2) or downloaded here: [Stock't ZIP](Stock't_IvyPokorny_Original.zip)
@@ -36,3 +37,15 @@ The improvements are as follows:
 ------------------
 
 An in depth explanation of the improvements made to this artifact can be found here as well. Either click the Enhancements link above or [Click here](https://ivypokorny.github.io/enhancements).
+
+# Artifacts Summary and Portfolio Overview
+The artifacts in my ePortfolio reflect a cohesive narrative of my growth as a computer scientist. This ePortfolio as well as the narrative and code review reflect a collaborative environment which has produced professional-quality communications throughout the project, each adapted to the audience. Each artifact addresses different aspects of the course outcomes, showcasing my technical skills and ability to deliver innovative solutions:
+
+# Inventory App:
+# 
+#
+#
+#
+#
+#
+#
