@@ -12,7 +12,7 @@ THIS IS COMMENTED OUT
 Welcome to my project showcase! 
 In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems.
 
-## <Inventory App:>
+## <details> <summary> Inventory App: </summary>
 This app is designed to streamline inventory management for flower shops, addressing key user needs such as low stock alerts and straightforward tracking. It enhances the user experience through easy monitoring and timely notifications.
 
 ### Objective: 
