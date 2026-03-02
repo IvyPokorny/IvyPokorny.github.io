@@ -12,8 +12,9 @@ THIS IS COMMENTED OUT
 Welcome to my project showcase! 
 In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems.
 
-## <details> <summary> Inventory App: </summary>
-This app is designed to streamline inventory management for flower shops, addressing key user needs such as low stock alerts and straightforward tracking. It enhances the user experience through easy monitoring and timely notifications.
+<details> 
+<summary> Inventory App: </summary>
+<p>This app is designed to streamline inventory management for flower shops, addressing key user needs such as low stock alerts and straightforward tracking. It enhances the user experience through easy monitoring and timely notifications.
 
 ### Objective: 
 Leverage best practices in mobile application development by implementing user-centered design principles and industry standards to create a fully functional mobile application. The app features a home screen displaying current inventory levels, an inventory tracking system for adding and updating items, and SMS notifications for low stock alerts. User feedback was integral to the design process, resulting in intuitive navigation.
@@ -53,7 +54,7 @@ The three pictures above show the key features mentioned above; Adding/removing 
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="Graph showing the trends of individual items" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360E.png" alt=" Graph showing the trends of grouped items" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 
-From the homepage, the user can access graph metrics by selecting the green button labeled "Click for Data Metrics." This leads to a new page where they can customize the data display by checking group categories or viewing individual item values.
+From the homepage, the user can access graph metrics by selecting the green button labeled "Click for Data Metrics." This leads to a new page where they can customize the data display by checking group categories or viewing individual item values. </p>
 </details>
 
 ## 3D Graphics Class:
