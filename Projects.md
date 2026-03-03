@@ -76,9 +76,9 @@ Technologies used:
 </ul> 
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330A.png" alt="" width="500" height="300" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330B.png" alt="" width="500" height="500" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330B.png" alt="" width="600" height="550" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330C.png" alt="" width="800" height="300" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330Cc.png" alt="" width="800" height="500" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330Cc.png" alt="" width="900" height="500" style="border:3px solid black">
 
 <p> The above pictures represent the code I wrote to render the image of the michelin man in the Virginia Raceway. </p>
 
