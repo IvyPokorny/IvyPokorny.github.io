@@ -72,10 +72,18 @@ Technologies used:
 <ul>
   <li>OpenGL</li>
   <li>C++</li>
-</ul>  
+  <li>Visual Studio 2022</li>
+</ul> 
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330D.png" alt="Midway submission of the project" width="450" height="450" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330E.png" alt="Michelin Man rendering at the VIR" width="450" height="450" style="border:3px solid black"> 
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330A.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330B.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330C.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330Cc.png" alt="" width="450" height="450" style="border:3px solid black">
+
+<p> The above pictures represent the code I wrote to render the image of the michelin man in the Virginia Raceway. </p>
+
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330D.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330E.png" alt="" width="450" height="450" style="border:3px solid black"> 
 
 </details>
 
