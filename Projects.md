@@ -37,7 +37,7 @@ Technology used:
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3602.png" alt="Signup page - User authentication" width="700" height="450" style="vertical-align:middle;margin:10px 20px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3603.png" alt="Signup page - User authentication" width="700" height="450" style="vertical-align:middle;margin:10px 20px">
 
-<p> The three pictures above show the key features mentioned above; User authentication & Low stock notifications </p>
+<p> The three pictures above illustrate the key features of the application, including user authentication and low stock notifications. The first image showcases the private void signup() method, which guides users through the signup process by prompting them for required information, verifying that all fields are completed, ensuring passwords match, and providing feedback for any errors before closing the signup activity upon successful registration. The second image features the protected void onCreate(Bundle savedInstanceState) method, responsible for loading the home page with the specified parameters, while the third image depicts the private void loadStockData() method, designed to monitor inventory levels and alert users when stock items are low based on user-defined thresholds. </p>
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360A.png" alt="Signup page - User authentication" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360B.png" alt=" Homepage" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
@@ -53,7 +53,7 @@ Technology used:
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3605.png" alt="Signup page - User authentication" width="900" height="500" style="vertical-align:middle;margin:10px 20px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS3606.png" alt="Signup page - User authentication" width="900" height="500" style="vertical-align:middle;margin:10px 20px">
 
-<p> The three pictures above show the key features mentioned above; Adding/removing items & Adjusting quantities </p>
+<p> The three pictures above highlight key features of the application, specifically adding and removing items as well as adjusting quantities. The first image presents the public void addItem() method, which takes the necessary parameters to facilitate the addition of new items to the inventory. The second image shows the public void updateItemQuantity(), which retrieves the old quantity before making updates, while the third image features the private void loadData(), responsible for fetching and displaying current inventory data to ensure accurate management. </p>
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360F.png" alt="Graph showing all the data metrics" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360D.png" alt="Graph showing the trends of individual items" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
@@ -63,7 +63,7 @@ Technology used:
 </details>
 
 <details> 
-<summary> <h3> Graphics Class: </h3> (click to expand) </summary>
+<summary> <h3> Graphics Class: </h3> </summary>
 <p> I created realistic, interactive 3D objects using application programming interface (API) libraries and best practices, resulting in fully realized graphic applications that met all project requirements.</p>
 <h4> Objectives: </h4>
 <p> Generate accurate representations of 3D objects and create an interactive graphics application that responds to input devices. In this case, I used a picture of my husband and I from vacation as the goal in this project. </p>
@@ -76,11 +76,11 @@ Technologies used:
 </ul> 
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330A.png" alt="" width="500" height="300" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330B.png" alt="" width="450" height="600" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330B.png" alt="" width="450" height="400" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330C.png" alt="" width="800" height="300" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330Cc.png" alt="" width="900" height="500" style="border:3px solid black">
 
-<p> The above pictures represent the code I wrote to render the image of the michelin man in the Virginia Raceway. </p>
+<p> The above pictures represent the code I wrote to render the image of the Michelin Man in the Virginia Raceway. The first image displays the void SceneManager::LoadSceneTextures() method, which initializes and loads the necessary textures for the scene, setting the stage for a rich visual experience. The second image illustrates the void SceneManager::DefineObjectMaterials(), where I define the materials for the objects, followed by the void SceneManager::SetupSceneLights(), which establishes the lighting conditions, culminating in the final rendering showcased in the fourth image with void SceneManager::RenderScene(). </p>
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330D.png" alt="" width="450" height="450" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330E.png" alt="" width="450" height="450" style="border:3px solid black"> 
@@ -88,7 +88,7 @@ Technologies used:
 </details>
 
 <details> 
-<summary> <h3> Intelligent Agent: </h3> (click to expand) </summary>
+<summary> <h3> Intelligent Agent: </h3> </summary>
 <p> In this project, I developed an intelligent pirate agent that navigates a maze to locate treasure using reinforcement learning techniques. I began with a provided codebase, which included the foundational structure for the maze and basic agent functionalities. My contributions involved implementing deep Q-learning algorithms using neural networks, enhancing the agent’s ability to learn optimal paths through exploration and exploitation.</p>
 
 <p> Key tasks included creating the Q-learning algorithm, designing the neural network architecture, and developing the training process. I coded features such as experience replay, action selection based on Q-values, and loss computation for model training. Additionally, I integrated secure coding practices and automated testing within the CI/CD pipeline to ensure robustness and implemented continuous testing to guarantee that the agent learned effectively and efficiently.</p>
@@ -102,15 +102,17 @@ Technologies used:
   <li>Jupyter Notebook</li>
 </ul>
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370A.png" alt="" width="500" height="550" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370A.png" alt="" width="700" height="550" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370B.png" alt="" width="500" height="550" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370C.png" alt="" width="500" height="500" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370D.png" alt="" width="500" height="550" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370C.png" alt="" width="700" height="500" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370D.png" alt="" width="700" height="550" style="border:3px solid black">
+
+<p> The above pictures represent the code I wrote to train an intelligent agent to navigate a maze and locate treasure. The first image showcases the class TreasureMaze(object), which includes a def reset method to reset the agent's position within the maze, ensuring a fresh start for each training session. The second image features additional methods that update the agent's state based on its movements, while the third image demonstrates the method that rewards the agent for successfully navigating toward the treasure, all within the broader context defined by the class GameExperience(object) in the fourth image.</p>
 
 </details>
 
 <details> 
-<summary> <h3> Assembly Code: </h3> (click to expand) </summary>
+<summary> <h3> Assembly Code: </h3> </summary>
 <p> In this project, I learned to analyze systems and software to understand their design, architecture, and functionality. This practice involved deconstructing the code to extract knowledge and recreate it without access to the original design documents. I focused on decoding legacy code by compiling and decompiling, converting it from assembly to C++ and vice versa. </p>
 <h4> Objective: </h4>
 <p> Utilize fundamental reverse engineering techniques while reviewing common security issues identified through this process. </p>
@@ -124,7 +126,7 @@ Technologies used:
 </details>
 
 <details> 
-<summary> <h3> Smart Thermostat: </h3> (click to expand) </summary>
+<summary> <h3> Smart Thermostat: </h3> </summary>
 <p> The Smart Thermostat project aimed to develop a prototype for monitoring and controlling room temperature. The primary goal was to create a reliable and user-friendly device that transmits temperature data to the server software of the fictional company SysTec via Wi-Fi, marking a significant step into the smart home market. </p>
 
 <p> A key strength in this project was implementing state machine logic for managing heating, cooling, and off modes, which allowed for smooth functionality and easier debugging. I also integrated peripherals, including a temperature sensor and LCD display, ensuring a responsive and user-friendly system. </p>
@@ -140,13 +142,13 @@ Technologies used:
 </ul>
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350A.png" alt="" width="500" height="500" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350B.png" alt="" width="500" height="500" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350B.png" alt="" width="600" height="500" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350C.png" alt="" width="500" height="500" style="border:3px solid black">
 
 </details>
 
 <details> 
-<summary> <h3> Animal Rescue Dashboard: </h3> (click to expand) </summary>
+<summary> <h3> Animal Rescue Dashboard: </h3></summary>
 <p> The Grazioso Salvare Dashboard is an interactive web application that provides insights into animal rescue data. Users can filter information by rescue types, displaying it in a user-friendly format. Key features include a data table, pie chart visualization of preferred breeds, and an interactive map showing animal locations. </p>
 
 Required Functionality:
@@ -175,7 +177,7 @@ Technologies used:
 </details>
 
 <details> 
-<summary> <h3> Travel Website: </h3> (click to expand) </summary>
+<summary> <h3> Travel Website: </h3> </summary>
 <p> This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL MongoDB database. </p>
 required functionality;
 <ul>

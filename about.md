@@ -31,19 +31,19 @@ The projects I'll be showcasing in this ePortfolio demonstrate a range of compet
 
 <dl>
 <dt>The Inventory App </dt> 
-<dd> Highlights efficient inventory management using advanced data structures and algorithms, allowing for quick access and timely notifications for low stock levels. This project adheres to software engineering principles, emphasizing user-centered design and thorough testing, supported by dynamic database integration for tracking stock.</dd>
+<dd> This app highlights efficient inventory management using advanced data structures and algorithms, allowing for quick access and timely notifications for low stock levels. This project adheres to software engineering principles, emphasizing user-centered design and thorough testing, supported by dynamic database integration for tracking stock.</dd>
 
 <dt>The 3D Graphics Class </dt>
-<dd>I applied complex algorithms to render realistic 3D objects and manipulate graphic data structures, enhancing the interactive user experience.</dd>
+<dd>In this class I applied complex algorithms to render realistic 3D objects and manipulate graphic data structures, enhancing the interactive user experience.</dd>
 
 <dt>The Smart Thermostat</dt> 
-<dd>Employs state machine algorithms for effective temperature control, optimizing performance through decision-making logic based on user input and environmental conditions. It illustrates modular design by integrating hardware and software while ensuring secure communication with the fictional server SysTec.</dd>
+<dd> This device employs state machine algorithms for effective temperature control, optimizing performance through decision-making logic based on user input and environmental conditions. It illustrates modular design by integrating hardware and software while ensuring secure communication with the fictional server SysTec.</dd>
 
-<dt>Pet Hotel Java</dt> 
-<dd>I utilized object-oriented principles to create data structures for pets, owners, and transactions, ensuring seamless operations like intake and checkout. This project focuses on backend development and database management, emphasizing data integrity through rigorous testing and debugging, alongside secure handling of sensitive user information.</dd>
+<dt>Animal Rescue Dashboard</dt> 
+<dd> For this project, I utilized object-oriented principles to create data structures for pets, owners, and transactions, ensuring seamless operations like intake and checkout. This project focuses on backend development and database management, emphasizing data integrity through rigorous testing and debugging, alongside secure handling of sensitive user information.</dd>
 
 <dt>The Travel Website</dt> 
-<dd>Personalizes user experiences through algorithms that dynamically adjust based on behavior data. It covers the full software development lifecycle, highlighting modularity and industry-standard methodologies to deliver a high-quality, scalable application while adhering to secure coding practices to protect user data.</dd>
+<dd> This website personalizes user experiences through algorithms that dynamically adjust based on behavior data. It covers the full software development lifecycle, highlighting modularity and industry-standard methodologies to deliver a high-quality, scalable application while adhering to secure coding practices to protect user data.</dd>
 <dl>
 
 Together, these projects illustrate my comprehensive skill set and the importance of integrating algorithms, database management, and security considerations throughout the software development process.

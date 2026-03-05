@@ -42,6 +42,8 @@ An in depth explanation of the improvements made to this artifact can be found h
 The artifacts in my ePortfolio tell a cohesive story of my journey as a computer scientist. This ePortfolio, along with the narrative and code review, highlights a collaborative environment that has fostered professional-quality communication throughout the project, each piece thoughtfully tailored to its audience. The projects I've tackled cover a broad spectrum of tech skills, including full stack development, graphics design, and crafting AI algorithms for intelligent agents. I've also delved into reverse engineering, hardware integration, and extensive database work. Each project has been an opportunity to embrace new challenges and explore the ever-evolving landscape of technology, all while enjoying the process and learning something new along the way.
 
 Here are the github links to each repository;
+    [LinkedIn](google.com) 
+    [GitHub](https://github.com/IvyPokorny)
     CS360 Inventory App
     CS330 Graphics Class
     CS370 Intellignet Agent
