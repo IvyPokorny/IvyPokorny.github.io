@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Projects"
-description: "A short and thorough showcase of the projects I have worked on."
+description: "A thorough showcase of the projects I have worked on."
 permalink: /projects
 ---
 

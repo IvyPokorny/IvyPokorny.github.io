@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About"
-description:  "An explanation of core skills"
+description:  "A brief summary of what I have learned so far, and some hope and dreams of the future to come."
 permalink: /about
 ---
 
