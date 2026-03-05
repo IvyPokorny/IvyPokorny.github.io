@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Code Snippets"
-description: ""
-permalink: /code-snippets
+title: "Github Links"
+description: "Further details on the projects"
+permalink: /github-links
 ---
 
 <!-- 
 THIS IS COMMENTED OUT
-| [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Code Snippets](https://ivypokorny.github.io/code-snippets) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
+| [Home](https://ivypokorny.github.io/) | [About Me](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Code Snippets](https://ivypokorny.github.io/code-snippets) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  
 
 # Artifact Explanation
 
@@ -36,16 +36,17 @@ The improvements are as follows:
 
 ------------------
 
-An in depth explanation of the improvements made to this artifact can be found here as well. Either click the Enhancements link above or [Click here](https://ivypokorny.github.io/enhancements).
+An in depth explanation of the improvements made to this artifact can be found here as well. Either click the Enhancements link above or [Click here](https://ivypokorny.github.io/enhancements). -->
 
 # Artifacts Summary and Portfolio Overview
-The artifacts in my ePortfolio reflect a cohesive narrative of my growth as a computer scientist. This ePortfolio as well as the narrative and code review reflect a collaborative environment which has produced professional-quality communications throughout the project, each adapted to the audience. Each artifact addresses different aspects of the course outcomes, showcasing my technical skills and ability to deliver innovative solutions:
+The artifacts in my ePortfolio tell a cohesive story of my journey as a computer scientist. This ePortfolio, along with the narrative and code review, highlights a collaborative environment that has fostered professional-quality communication throughout the project, each piece thoughtfully tailored to its audience. The projects I've tackled cover a broad spectrum of tech skills, including full stack development, graphics design, and crafting AI algorithms for intelligent agents. I've also delved into reverse engineering, hardware integration, and extensive database work. Each project has been an opportunity to embrace new challenges and explore the ever-evolving landscape of technology, all while enjoying the process and learning something new along the way.
 
-# Inventory App:
-# 
-#
-#
-#
-#
-#
-#
+Here are the github links to each repository;
+    CS360 Inventory App
+    CS330 Graphics Class
+    CS370 Intellignet Agent
+    CS410 Assembly Code
+    CS350 Smart Thermostat
+    CS340 Animal Rescue Thermostat
+    CS465 Travel Website
+

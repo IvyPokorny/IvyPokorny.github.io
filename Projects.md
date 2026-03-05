@@ -13,7 +13,7 @@ Welcome to my project showcase!!
 <p> In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems.</p>
 
 <details> 
-<summary> <h3> Inventory App </h3> (click to expand) </summary>
+<summary> <h3> Inventory App </h3> </summary>
 <p>This app is designed to streamline inventory management for flower shops, addressing key user needs such as low stock alerts and straightforward tracking. It enhances the user experience through easy monitoring and timely notifications.</p>
 
 <h4> Objective:</h4> 
