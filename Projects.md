@@ -145,11 +145,13 @@ Technologies used:
 <img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350B.png" alt="" width="600" height="500" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350C.png" alt="" width="500" height="500" style="border:3px solid black">
 
+<p> The above pictures represent the code I wrote to develop software that controls hardware components. The first image features the class ManageDisplay(), which includes a def cleanupDisplay(self) method responsible for tidying up the display to ensure optimal performance. In the second image, the def manageMyDisplay(self) method captures the current time to update both the display and the server, while the third image presents the def updateLights(self), which retrieves temperature data and records the set point, dynamically fading the lights in and out based on whether the temperature is rising or dropping. </p>
+
 </details>
 
 <details> 
 <summary> <h3> Animal Rescue Dashboard: </h3></summary>
-<p> The Grazioso Salvare Dashboard is an interactive web application that provides insights into animal rescue data. Users can filter information by rescue types, displaying it in a user-friendly format. Key features include a data table, pie chart visualization of preferred breeds, and an interactive map showing animal locations. </p>
+<p> The Grazioso Salvare Dashboard is an interactive web application that provides insights into animal rescue data. Users can filter information by rescue types, displaying it in a user-friendly format. Key features include a data table, pie chart visualization of preferred breeds, and an interactive map showing amal locationsni. </p>
 
 Required Functionality:
 <ul>
