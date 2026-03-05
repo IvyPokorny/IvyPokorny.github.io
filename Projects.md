@@ -93,7 +93,7 @@ Technologies used:
 
 <p> Key tasks included creating the Q-learning algorithm, designing the neural network architecture, and developing the training process. I coded features such as experience replay, action selection based on Q-values, and loss computation for model training. Additionally, I integrated secure coding practices and automated testing within the CI/CD pipeline to ensure robustness and implemented continuous testing to guarantee that the agent learned effectively and efficiently.</p>
 
-<h4> Objective: </h4>
+<h4> Objective: </h4> 
 <p> Develop a reinforcement learning agent that efficiently navigates a maze and optimizes pathfinding through advanced algorithmic design and evaluation of complex data structures.</p>
 
 Technologies used: 
@@ -102,10 +102,10 @@ Technologies used:
   <li>Jupyter Notebook</li>
 </ul>
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370A.png" alt="" width="450" height="450" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370B.png" alt="" width="450" height="450" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370C.png" alt="" width="450" height="450" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370D.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370A.png" alt="" width="500" height="550" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370B.png" alt="" width="500" height="550" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370C.png" alt="" width="500" height="500" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370D.png" alt="" width="500" height="550" style="border:3px solid black">
 
 </details>
 
@@ -139,9 +139,9 @@ Technologies used:
     <li> Python. </li>
 </ul>
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350A.png" alt="" width="450" height="450" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350B.png" alt="" width="450" height="450" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350C.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350A.png" alt="" width="500" height="500" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350B.png" alt="" width="500" height="500" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350C.png" alt="" width="500" height="500" style="border:3px solid black">
 
 </details>
 
