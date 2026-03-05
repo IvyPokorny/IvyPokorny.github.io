@@ -76,7 +76,7 @@ Technologies used:
 </ul> 
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330A.png" alt="" width="500" height="300" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330B.png" alt="" width="600" height="600" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330B.png" alt="" width="450" height="600" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330C.png" alt="" width="800" height="300" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs330\CS330Cc.png" alt="" width="900" height="500" style="border:3px solid black">
 
@@ -101,6 +101,11 @@ Technologies used:
   <li>Python</li>
   <li>Jupyter Notebook</li>
 </ul>
+
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370A.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370B.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370C.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs370\CS370D.png" alt="" width="450" height="450" style="border:3px solid black">
 
 </details>
 
@@ -133,6 +138,10 @@ Technologies used:
     <li> GPIO library </li>
     <li> Python. </li>
 </ul>
+
+<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350A.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350B.png" alt="" width="450" height="450" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350C.png" alt="" width="450" height="450" style="border:3px solid black">
 
 </details>
 
@@ -170,7 +179,6 @@ Technologies used:
 <p> This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL MongoDB database. </p>
 required functionality;
 <ul>
-    <li> User Authentication </li>
     <li> Customer booking system </li>
     <li> Data Management </li>
     <li> Travel package Management (Admin Side) </li>
