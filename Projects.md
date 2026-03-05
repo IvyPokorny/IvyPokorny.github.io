@@ -13,7 +13,7 @@ Welcome to my project showcase!!
 <p> In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems.</p>
 
 <details> 
-<summary> <h3> Inventory App: </h3> </summary>
+<summary> <h3> Inventory App </h3> (click to expand) </summary>
 <p>This app is designed to streamline inventory management for flower shops, addressing key user needs such as low stock alerts and straightforward tracking. It enhances the user experience through easy monitoring and timely notifications.</p>
 
 <h4> Objective:</h4> 
@@ -63,7 +63,7 @@ Technology used:
 </details>
 
 <details> 
-<summary> <h3> Graphics Class: </h3> </summary>
+<summary> <h3> Graphics Class: </h3> (click to expand) </summary>
 <p> I created realistic, interactive 3D objects using application programming interface (API) libraries and best practices, resulting in fully realized graphic applications that met all project requirements.</p>
 <h4> Objectives: </h4>
 <p> Generate accurate representations of 3D objects and create an interactive graphics application that responds to input devices. In this case, I used a picture of my husband and I from vacation as the goal in this project. </p>
@@ -88,7 +88,7 @@ Technologies used:
 </details>
 
 <details> 
-<summary> <h3> Intelligent Agent: </h3> </summary>
+<summary> <h3> Intelligent Agent: </h3> (click to expand) </summary>
 <p> In this project, I developed an intelligent pirate agent that navigates a maze to locate treasure using reinforcement learning techniques. I began with a provided codebase, which included the foundational structure for the maze and basic agent functionalities. My contributions involved implementing deep Q-learning algorithms using neural networks, enhancing the agent’s ability to learn optimal paths through exploration and exploitation.</p>
 
 <p> Key tasks included creating the Q-learning algorithm, designing the neural network architecture, and developing the training process. I coded features such as experience replay, action selection based on Q-values, and loss computation for model training. Additionally, I integrated secure coding practices and automated testing within the CI/CD pipeline to ensure robustness and implemented continuous testing to guarantee that the agent learned effectively and efficiently.</p>
@@ -110,7 +110,7 @@ Technologies used:
 </details>
 
 <details> 
-<summary> <h3> Assembly Code: </h3> </summary>
+<summary> <h3> Assembly Code: </h3> (click to expand) </summary>
 <p> In this project, I learned to analyze systems and software to understand their design, architecture, and functionality. This practice involved deconstructing the code to extract knowledge and recreate it without access to the original design documents. I focused on decoding legacy code by compiling and decompiling, converting it from assembly to C++ and vice versa. </p>
 <h4> Objective: </h4>
 <p> Utilize fundamental reverse engineering techniques while reviewing common security issues identified through this process. </p>
@@ -124,7 +124,7 @@ Technologies used:
 </details>
 
 <details> 
-<summary> <h3> Smart Thermostat: </h3> </summary>
+<summary> <h3> Smart Thermostat: </h3> (click to expand) </summary>
 <p> The Smart Thermostat project aimed to develop a prototype for monitoring and controlling room temperature. The primary goal was to create a reliable and user-friendly device that transmits temperature data to the server software of the fictional company SysTec via Wi-Fi, marking a significant step into the smart home market. </p>
 
 <p> A key strength in this project was implementing state machine logic for managing heating, cooling, and off modes, which allowed for smooth functionality and easier debugging. I also integrated peripherals, including a temperature sensor and LCD display, ensuring a responsive and user-friendly system. </p>
@@ -146,7 +146,7 @@ Technologies used:
 </details>
 
 <details> 
-<summary> <h3> Animal Rescue Dashboard: </h3> </summary>
+<summary> <h3> Animal Rescue Dashboard: </h3> (click to expand) </summary>
 <p> The Grazioso Salvare Dashboard is an interactive web application that provides insights into animal rescue data. Users can filter information by rescue types, displaying it in a user-friendly format. Key features include a data table, pie chart visualization of preferred breeds, and an interactive map showing animal locations. </p>
 
 Required Functionality:
@@ -175,7 +175,7 @@ Technologies used:
 </details>
 
 <details> 
-<summary> <h3> Travel Website: </h3> </summary>
+<summary> <h3> Travel Website: </h3> (click to expand) </summary>
 <p> This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL MongoDB database. </p>
 required functionality;
 <ul>
