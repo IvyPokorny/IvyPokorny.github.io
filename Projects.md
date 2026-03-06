@@ -89,7 +89,7 @@ Technologies used:
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4651.png" alt="" width="350" height="300" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4652.png" alt="" width="350" height="300" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4653.png" alt="" width="400" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4653.png" alt="" width="500" height="400" style="border:3px solid black">
 
 <p> The above pictures represent the code I wrote to implement the required functionality for the website. The first two images showcase the login method that leverages the login functionality available in TripDataService, an observable method designed for the admin interface, while the third picture illustrates the call to the login endpoint within the same service. </p>
 
