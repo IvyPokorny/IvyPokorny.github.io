@@ -19,6 +19,20 @@ As I prepare to showcase my projects, I want to emphasize how they reflect my un
 
 I’ve also focused on database management, which has allowed me to effectively organize, retrieve, and maintain data integrity across applications. Lastly, I always prioritize a security mindset in my development process to safeguard sensitive information and build trust with users. Together, these core competencies provide a solid foundation for delivering high-quality applications that truly meet user expectations and industry standards. I’m excited to share how each project embodies these principles!
 
+## Skills
+* Software Testing: Knowledge of functional, non-functional, structural and behavioral testing
+* Automation Tools: Familiarity with tools such as Appium for cross-platform testing.
+* Programming and Scripting Languages: Proficient in Python, Java, C, C++, Bash, JSON, Ruby, HTML, SQL, JavaScript.
+* Test Planning: Understanding of how to create and execute test plans.
+* Agile Methodology: Awareness of agile practices and teamwork principles.
+* Documentation: Ability to produce clear reports and documentation.
+* Web Technologies: HTML5, CSS3, Node.js, React
+* Version Control: GitHub
+* Databases: MySQL, MongoDB, Db2, Pymongo, SQLite
+* Development Practices: Agile, DevOps, CI/CD pipelines
+* Software Development: REST APIs, microservices architecture
+* Operating Systems: Linux, Windows
+* Frameworks: Eclipse, VS studio,  VS studio code, 
 <!-- 
 ## Narratives
 
