@@ -74,4 +74,11 @@ I’ve also focused on database management, which has allowed me to effectively 
 *   Innovative Techniques, Skills, & Tools
 *   Security Mindset
 
+## Certificates
+* SNHU Dean's List summer 2024
+* SNHU Presidents's List fall 2024
+* SNHU President's List 2025
+
+
+
 * * *
