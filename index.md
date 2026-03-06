@@ -9,7 +9,6 @@ THIS IS COMMENTED OUT
 
 # Introduction
 
-## About Me
 My name is Ivy Pokorny, and as a recent graduate, I am actively seeking employment and am excited to share my ePortfolio. Through various projects that encompass software engineering, algorithms, data structures, database management, and security, I have gained a solid understanding of core computer science principles and practices.
 
 This ePortfolio showcases my technical skills, creative problem-solving abilities, and dedication to user-centered design. Within this professional self-assessment, I will highlight my strengths in team collaboration, communication, technical expertise, and adherence to security best practices. It also provides a comprehensive overview of how my projects collectively demonstrate my readiness to make a meaningful contribution to the industry.
@@ -26,13 +25,13 @@ I’ve also focused on database management, which has allowed me to effectively 
 * Test Planning: Understanding of how to create and execute test plans.
 * Agile Methodology: Awareness of agile practices and teamwork principles.
 * Documentation: Ability to produce clear reports and documentation.
-* Web Technologies: HTML5, CSS3, Node.js, React
+* Web Technologies: HTML5, CSS, Node.js, React
 * Version Control: GitHub
-* Databases: MySQL, MongoDB, Db2, Pymongo, SQLite
+* Databases: MySQL, MongoDB, Pymongo, SQLite
 * Development Practices: Agile, DevOps, CI/CD pipelines
-* Software Development: REST APIs, microservices architecture
+* Software Development: REST APIs,
 * Operating Systems: Linux, Windows
-* Frameworks: Eclipse, VS studio,  VS studio code, 
+* Frameworks: Eclipse, Visual studio, VS code, 
 
 
 <!-- 
@@ -67,7 +66,7 @@ I’ve also focused on database management, which has allowed me to effectively 
 
  -->
 
-## Course Outcomes
+## Outcomes
 
 *   Collab Environment
 *   Quality Oral, Written, and Visual Communication

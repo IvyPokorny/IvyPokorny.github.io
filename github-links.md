@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Github Links"
-description: "Further details on the projects"
+description: "Quick access to my repos"
 permalink: /github-links
 ---
 
@@ -41,14 +41,17 @@ An in depth explanation of the improvements made to this artifact can be found h
 <summary> <h3> Artifacts Summary and Portfolio Overview </h3> </summary>
 <p> The artifacts in my ePortfolio tell a cohesive story of my journey as a computer scientist. This ePortfolio, along with the narrative and code review, highlights a collaborative environment that has fostered professional-quality communication throughout the project, each piece thoughtfully tailored to its audience. The projects I've tackled cover a broad spectrum of tech skills, including full stack development, graphics design, and crafting AI algorithms for intelligent agents. I've also delved into reverse engineering, hardware integration, and extensive database work. Each project has been an opportunity to embrace new challenges and explore the ever-evolving landscape of technology, all while enjoying the process and learning something new along the way. </p>
 
-Here are the github links to each repository;
 <ul>
     <li> <p><a href="https://www.linkedin.com/in/ivypokorny"> LinkedIn </a></p> </li>
     <li> <p><a href="https://www.github.com/IvyPokorny"> Github </a></p> </li>
+</ul>
+
+Here are the github links to each project repository;
+<ul>
     <li> <p><a href="https://github.com/IvyPokorny/Stock-t_2"> CS360 Inventory App  </a></p></li> 
     <li> <p><a href="https://github.com/IvyPokorny/cs465-fullstack/tree/module7">  CS465 Travel Website </a></p></li> 
     <li> <p><a href="https://github.com/IvyPokorny/CS330"> CS330 Graphics Class </a></p></li> 
-    <li> <p><a href="https://github.com/IvyPokorny/CS370-Portfolio"> CS370 Intellignet Agent </a></p></li>
+    <li> <p><a href="https://github.com/IvyPokorny/CS370-Portfolio"> CS370 Intelligent Agent </a></p></li>
     <li> <p><a href="https://github.com/IvyPokorny/CS350-Portfolio"> CS350 Smart Thermostat </a></p></li>
     <li> <p><a href="https://github.com/IvyPokorny/CS340-FinalProject"> CS340 Animal Rescue Dashboard </a></p></li>
 </ul>

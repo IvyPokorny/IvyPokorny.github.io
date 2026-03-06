@@ -34,16 +34,16 @@ The projects I'll be showcasing in this ePortfolio demonstrate a range of compet
 <dd> This app highlights efficient inventory management using advanced data structures and algorithms, allowing for quick access and timely notifications for low stock levels. This project adheres to software engineering principles, emphasizing user-centered design and thorough testing, supported by dynamic database integration for tracking stock.</dd>
 
 <dt>The 3D Graphics Class </dt>
-<dd>In this class I applied complex algorithms to render realistic 3D objects and manipulate graphic data structures, enhancing the interactive user experience.</dd>
+<dd>In this class I applied complex algorithms to render realistic 3D objects, control the view screen, and manipulate graphic data structures, enhancing the interactive user experience.</dd>
 
 <dt>The Smart Thermostat</dt> 
-<dd> This device employs state machine algorithms for effective temperature control, optimizing performance through decision-making logic based on user input and environmental conditions. It illustrates modular design by integrating hardware and software while ensuring secure communication with the fictional server SysTec.</dd>
+<dd> This RasberryPI employs a state machine for effective temperature control, optimizing performance through decision-making logic based on user input and environmental conditions. It illustrates integrated design by integrating hardware, circuit design, and software while ensuring secure communication with the fictional server SysTec.</dd>
 
 <dt>Animal Rescue Dashboard</dt> 
 <dd> The Animal Rescue Dashboard totally hits the mark for database competency by using a structured database to manage and store animal rescue information, all accessible through an interactive web application. Users can easily filter and retrieve data by different rescue types, showcasing real query and data manipulation abilities. Plus, features like the data table, pie chart visualizations of preferred breeds, and an interactive map showing where the animals are located make complex data super easy to understand, letting users gain valuable insights while highlighting some solid data management and visualization skills.</dd>
 
 <dt>The Travel Website</dt> 
-<dd> This website personalizes user experiences through algorithms that dynamically adjust based on behavior data. It covers the full software development lifecycle, highlighting modularity and industry-standard methodologies to deliver a high-quality, scalable application while adhering to secure coding practices to protect user data.</dd>
+<dd> The website covers the full software development lifecycle, highlighting modularity and industry-standard methodologies to deliver a high-quality, scalable application while adhering to secure coding practices to protect user data.</dd>
 <dl>
 
 Together, these projects illustrate my comprehensive skill set and the importance of integrating algorithms, database management, and security considerations throughout the software development process.

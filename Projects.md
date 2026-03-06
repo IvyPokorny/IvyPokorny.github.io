@@ -17,7 +17,7 @@ Welcome to my project showcase!!
 <p>This app is designed to streamline inventory management for flower shops, addressing key user needs such as low stock alerts and straightforward tracking. It enhances the user experience through easy monitoring and timely notifications.</p>
 
 <h4> Objective:</h4> 
-<p>Leverage best practices in mobile application development by implementing user-centered design principles and industry standards to create a fully functional mobile application. The app features a home screen displaying current inventory levels, an inventory tracking system for adding and updating items, and SMS notifications for low stock alerts. User feedback was integral to the design process, resulting in intuitive navigation.</p>
+<p>Leverage best practices in mobile application development by implementing user-centered design principles and industry standards to create a fully functional mobile application. The app features a home screen displaying current inventory levels, an inventory tracking system for adding and updating items, and SMS notifications for low stock alerts. User feedback from local florists was integral to the design process, resulting in intuitive navigation.</p>
 
 Key Features:
 <ul>
@@ -64,8 +64,9 @@ Technology used:
 
 <details> 
 <summary> <h3> Travel Website: </h3> </summary>
-<p> This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL MongoDB database. </p>
-required functionality;
+<p> This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL & MongoDB database. </p>
+
+Key Features:
 <ul>
     <li> Customer booking system </li>
     <li> Data Management </li>
@@ -101,6 +102,8 @@ Technologies used:
 <img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA.png" alt="Admin side SPA with added package" width="600" height="400" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPAB.png" alt="Admin side SPA that makes it possible for the admin to edit existing trips " width="350" height="400" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPAC.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400" style="border:3px solid black">
+
+<p> These pictures demonstrate the simple and intuitive single-page-application for admin management of available trips. </p>
 
 </details>
 
@@ -178,9 +181,9 @@ Technologies used:
 
 Technologies used: 
 <ul>
-    <li>Raspberry Pi 5</li> 
+    <li> Raspberry Pi 5 </li> 
     <li> GPIO library </li>
-    <li> Python. </li>
+    <li> Python </li>
 </ul>
 
 <img src="https:\\IvyPokorny.github.io\pictures\cs350\CS350A.png" alt="" width="500" height="500" style="border:3px solid black">
@@ -193,7 +196,7 @@ Technologies used:
 
 <details> 
 <summary> <h3> Animal Rescue Dashboard: </h3></summary>
-<p> The Grazioso Salvare Dashboard is an interactive web application that provides insights into animal rescue data. Users can filter information by rescue types, displaying it in a user-friendly format. Key features include a data table, pie chart visualization of preferred breeds, and an interactive map showing amal locationsni. </p>
+<p> The Grazioso Salvare Dashboard is an interactive web application that provides insights into animal rescue data. Users can filter information by rescue types, displaying it in a user-friendly format. Key features include a data table, pie chart visualization of preferred breeds, and an interactive map showing animal locations. </p>
 
 Required Functionality:
 <ul>
@@ -210,13 +213,15 @@ Technologies used:
 <ul>
     <li> MongoDB </li>
     <li> Python libraries </li> 
-    <Li> pandas & Dash </li>
+    <Li> Pandas & Dash </li>
 </ul>
  
 <img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340B.png" alt="" width="800" height="600" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340C.png" alt="" width="800" height="500" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340D.png" alt="" width="800" height="250" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs340\CS340E.png" alt="" width="800" height="350" style="border:3px solid black">
+
+<p> The first two pictures above demonstrate the most interesting methods of the complete CRUD methods for managing the database. The simple read method allows for simple, readable searches. The last two pictures demonstrate the Grazioso Salvare Dashboard's filterable data table, filterable pie chart visualization of preferred breeds, and an interactive map showing animal locations. </p>
 
 </details>
 
