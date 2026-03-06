@@ -13,7 +13,7 @@ Welcome to my project showcase!!
 <p> In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems.</p>
 
 <details> 
-<summary> <h3> Inventory App </h3> </summary>
+<summary> <h3> Inventory App: </h3> </summary>
 <p>This app is designed to streamline inventory management for flower shops, addressing key user needs such as low stock alerts and straightforward tracking. It enhances the user experience through easy monitoring and timely notifications.</p>
 
 <h4> Objective:</h4> 
@@ -60,6 +60,47 @@ Technology used:
 <img src="https:\\IvyPokorny.github.io\pictures\cs360\CS360E.png" alt=" Graph showing the trends of grouped items" width="200" height="450" style="vertical-align:middle;margin:10px 20px">
 
 <p> From the homepage, the user can access graph metrics by selecting the green button labeled "Click for Data Metrics." This leads to a new page where they can customize the data display by checking group categories or viewing individual item values. </p>
+</details>
+
+<details> 
+<summary> <h3> Travel Website: </h3> </summary>
+<p> This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL MongoDB database. </p>
+required functionality;
+<ul>
+    <li> Customer booking system </li>
+    <li> Data Management </li>
+    <li> Travel package Management (Admin Side) </li>
+    <li> Data interchange </li>
+</ul>
+
+<h4> Objective: </h4>
+<p> Design the architecture of a web application, build the application using frameworks, and develop and integrate a database for functionality and responsiveness. </p>
+
+Technologies used:
+<ul> 
+    <li> Express HTML </li>
+    <li> CSS </li>
+    <li> Angular </li> 
+    <li> NoSQL </li>
+    <li> JavaScript </li> 
+    <li> Node.js </li>
+    <li> Postman and MongoDB </li>
+</ul>
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4651.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4652.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4653.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400" style="border:3px solid black">
+
+<p> The above pictures represent the code I wrote to implement the required functionality for the website. The first two images showcase the login method that leverages the login functionality available in TripDataService, an observable method designed for the admin interface, while the third picture illustrates the call to the login endpoint within the same service. </p>
+
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4654.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4655.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400" style="border:3px solid black">
+
+<p> Meanwhile, the fourth picture features an export class TripData, which handles various operations such as getting trips, adding trips, and managing user authentication through methods like login, register, and handleAuthAPIcall, while the fifth image highlights the data interchange process by importing essential modules such as HttpClient, Observable, and various data models. </p> 
+
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA.png" alt="Admin side SPA with added package" width="600" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPAB.png" alt="Admin side SPA that makes it possible for the admin to edit existing trips " width="350" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPAC.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400" style="border:3px solid black">
+
 </details>
 
 <details> 
@@ -178,35 +219,6 @@ Technologies used:
 
 </details>
 
-<details> 
-<summary> <h3> Travel Website: </h3> </summary>
-<p> This full-stack web application serves both customer and administrative functions, featuring secure login authentication for the admin interface. It showcases the integration of frontend technologies with a robust backend, creating a seamless platform for booking travel packages and managing customer data. The admin side was developed as a single-page-application, and the backend uses NoSQL MongoDB database. </p>
-required functionality;
-<ul>
-    <li> Customer booking system </li>
-    <li> Data Management </li>
-    <li> Travel package Management (Admin Side) </li>
-    <li> Data interchange </li>
-</ul>
 
-<h4> Objective: </h4>
-<p> Design the architecture of a web application, build the application using frameworks, and develop and integrate a database for functionality and responsiveness. </p>
-
-Technologies used:
-<ul> 
-    <li> Express HTML </li>
-    <li> CSS </li>
-    <li> Angular </li> 
-    <li> NoSQL </li>
-    <li> JavaScript </li> 
-    <li> Node.js </li>
-    <li> Postman and MongoDB </li>
-</ul>
-
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA.png" alt="Admin side SPA with added package" width="600" height="400" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA2.png" alt="Admin side SPA that makes it possible for the admin to edit existing trips " width="350" height="400" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS465SPA3.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="400" style="border:3px solid black">
-
-</details>
 
 
