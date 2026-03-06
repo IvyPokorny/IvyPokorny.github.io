@@ -87,14 +87,14 @@ Technologies used:
     <li> Postman and MongoDB </li>
 </ul>
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4651.png" alt="Login/register code on client side" width="350" height="300" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4651.png" alt="" width="350" height="300" style="border:3px solid black">
 <img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4652.png" alt="" width="350" height="300" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4653.png" alt="Login/register code on admin side" width="400" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4653.png" alt="" width="400" height="400" style="border:3px solid black">
 
 <p> The above pictures represent the code I wrote to implement the required functionality for the website. The first two images showcase the login method that leverages the login functionality available in TripDataService, an observable method designed for the admin interface, while the third picture illustrates the call to the login endpoint within the same service. </p>
 
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4654.png" alt="Admin side SPA allowing the admin to add trips to sell" width="500" height="400" style="border:3px solid black">
-<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4655.png" alt="Admin side SPA allowing the admin to add trips to sell" width="350" height="250" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4654.png" alt="" width="500" height="400" style="border:3px solid black">
+<img src="https:\\IvyPokorny.github.io\pictures\cs465\CS4655.png" alt="" width="350" height="250" style="border:3px solid black">
 
 <p> Meanwhile, the fourth picture features an export class TripData, which handles various operations such as getting trips, adding trips, and managing user authentication through methods like login, register, and handleAuthAPIcall, while the fifth image highlights the data interchange process by importing essential modules such as HttpClient, Observable, and various data models. </p> 
 
