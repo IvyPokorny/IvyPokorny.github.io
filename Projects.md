@@ -153,7 +153,7 @@ Technologies used:
 
 </details>
 
-<details> 
+<!-- <details> 
 <summary> <h3> Assembly Code: </h3> </summary>
 <p> In this project, I learned to analyze systems and software to understand their design, architecture, and functionality. This practice involved deconstructing the code to extract knowledge and recreate it without access to the original design documents. I focused on decoding legacy code by compiling and decompiling, converting it from assembly to C++ and vice versa. </p>
 <h4> Objective: </h4>
@@ -165,7 +165,7 @@ Technologies used:
   <li>Jupyter Notebook</li>
 </ul>
 
-</details>
+</details> --> 
 
 <details> 
 <summary> <h3> Smart Thermostat: </h3> </summary>

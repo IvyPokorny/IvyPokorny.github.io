@@ -38,12 +38,12 @@ The improvements are as follows:
 
 An in depth explanation of the improvements made to this artifact can be found here as well. Either click the Enhancements link above or [Click here](https://ivypokorny.github.io/enhancements). -->
 
-<h3> Artifacts Summary and Portfolio Overview <h3>
+<summary> <h3> Artifacts Summary and Portfolio Overview </h3> </summary>
 <p> The artifacts in my ePortfolio tell a cohesive story of my journey as a computer scientist. This ePortfolio, along with the narrative and code review, highlights a collaborative environment that has fostered professional-quality communication throughout the project, each piece thoughtfully tailored to its audience. The projects I've tackled cover a broad spectrum of tech skills, including full stack development, graphics design, and crafting AI algorithms for intelligent agents. I've also delved into reverse engineering, hardware integration, and extensive database work. Each project has been an opportunity to embrace new challenges and explore the ever-evolving landscape of technology, all while enjoying the process and learning something new along the way. </p>
 
 Here are the github links to each repository;
 <ul>
-    <li> [LinkedIn](google.com) </li>
+    <li> <p><a href="https://www.linkedin.com/in/ivypokorny"> LinkedIn </a></p> </li>
     <li> <p><a href="https://www.github.com/IvyPokorny"> Github </a></p> </li>
     <li> CS360 Inventory App </li>
     <li> CS330 Graphics Class </li>
