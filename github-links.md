@@ -45,12 +45,11 @@ Here are the github links to each repository;
 <ul>
     <li> <p><a href="https://www.linkedin.com/in/ivypokorny"> LinkedIn </a></p> </li>
     <li> <p><a href="https://www.github.com/IvyPokorny"> Github </a></p> </li>
-    <li> CS360 Inventory App </li>
-    <li> CS330 Graphics Class </li>
-    <li> CS370 Intellignet Agent </li>
-    <li> CS410 Assembly Code </li>
-    <li> CS350 Smart Thermostat </li>
-    <li> CS340 Animal Rescue Thermostat </li>
-    <li> CS465 Travel Website </li>
+    <li> <p><a href="https://github.com/IvyPokorny/Stock-t_2"> CS360 Inventory App  </a></p></li> 
+    <li> <p><a href="https://github.com/IvyPokorny/cs465-fullstack/tree/module7">  CS465 Travel Website </a></p></li> 
+    <li> <p><a href="https://github.com/IvyPokorny/CS330"> CS330 Graphics Class </a></p></li> 
+    <li> <p><a href="https://github.com/IvyPokorny/CS370-Portfolio"> CS370 Intellignet Agent </a></p></li>
+    <li> <p><a href="https://github.com/IvyPokorny/CS350-Portfolio"> CS350 Smart Thermostat </a></p></li>
+    <li> <p><a href="https://github.com/IvyPokorny/CS340-FinalProject"> CS340 Animal Rescue Dashboard </a></p></li>
 </ul>
 
