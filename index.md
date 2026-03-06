@@ -33,6 +33,8 @@ I’ve also focused on database management, which has allowed me to effectively 
 * Software Development: REST APIs, microservices architecture
 * Operating Systems: Linux, Windows
 * Frameworks: Eclipse, VS studio,  VS studio code, 
+
+
 <!-- 
 ## Narratives
 

@@ -10,7 +10,7 @@ THIS IS COMMENTED OUT
 | [Home](https://ivypokorny.github.io/) | [About](https://ivypokorny.github.io/about) | [Projects](https://ivypokorny.github.io/projects) | [Original Artifact](https://ivypokorny.github.io/original-artifact) | [Enhancements](https://ivypokorny.github.io/enhancements) | [Narratives](https://ivypokorny.github.io/narratives) |  -->
 
 Welcome to my project showcase!!
-<p> In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems.</p>
+<p> In this section, I present a selection of web applications and innovative solutions that highlight my skills in software development. Each project reflects my commitment to creating user-friendly interfaces, efficient backends, and robust data management systems. (Click the title to expand --> ) </p>
 
 <details> 
 <summary> <h3> Inventory App: </h3> </summary>
